@@ -44,7 +44,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks02/0200891h.html</dc:source>
 		<dc:source>https://archive.org/details/mindofmrjgreeder0000wall</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mind_of_Mr._J._G._Reeder</meta>
