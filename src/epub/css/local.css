@@ -21,3 +21,8 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+#chapter-8 blockquote:first-of-type p{
+	font-variant: small-caps;
+	text-align: center;
+}
