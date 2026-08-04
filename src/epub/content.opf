@@ -43,7 +43,7 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:abstract>A meek and unassuming employee at the Department of Public Prosecutions exercises his remarkable skills to solve puzzling crimes.</dc:abstract>
+		<meta property="schema:abstract">A meek and unassuming employee at the Department of Public Prosecutions exercises his remarkable skills to solve puzzling crimes.</meta>
 		<dc:description>
 			&lt;p&gt;Mr. J. G. Reeder, mild-mannered, slightly shabby, and a throw-back with his mutton-chops and silk hat, is often mistaken for an office clerk. But his superiors have recognized his special gift: Reeder has a criminal mind. As an employee of the Department of Public Prosecutions, he’s frequently called upon to exercise his unusual talent to solve crimes that have confounded the local police.&lt;/p&gt;
 			&lt;p&gt;In this collection of eight stories, Mr. Reeder solves robberies, burglaries, and murders, often at great risk to his personal health and well-being, and frequently employing his great insight into human nature and the criminal mind.&lt;/p&gt;
